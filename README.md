@@ -13,8 +13,8 @@ vi plus
 Windows 10
 
 # Author
-*SHoma Takatori
-*s22C1078PF@s.chibakoudai.jp
+* Shoma Takatori
+* s22C1078PF@s.chibakoudai.jp
 
 #License
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
@@ -28,6 +28,6 @@ Windows 10
   * テスト済み: 3.7~3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 20.04 on Windows
 
 Ⓒ 2023 Shoma Takatori
