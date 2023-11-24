@@ -9,7 +9,7 @@ ng () {
 
 res=0
 
-  out=$(seq あ | ./plus)
+  out=$(seq 5 | ./plus)
   [ "$?" = 1 ]      || ng ${LINENO}
   [ "${out}" = "" ] || ng ${LINENO}
 
