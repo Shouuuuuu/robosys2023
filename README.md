@@ -4,16 +4,30 @@
 標準入力から読み込んだ数字を足す。
 
 # Install method
-```bash
+* まず以下のデポジトリをクローンする。
+```
 git clone git@github.com:Shouuuuuu/robosys2023.git
+```
+* 次にrobosys2023のディレクトリに移動するために以下のコードを打ち込む。
+```
 cd robosys2023
+```
+* 実行権限を得るために以下のコードを打ち込む。
+```
 chmod +x plus
 ```
 
 # Usage
+* 使用例1
 ```
 seq 5 | ./plus
 15
+```
+
+* 使用例2
+```
+seq 8 | ./plus
+36
 ```
 
 # Author
