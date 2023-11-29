@@ -7,7 +7,7 @@
 plusのコードを新しいファイルに張り付ける。
 
 # Usage
-```
+```bash
 git clone https://git@github.com:Shouuuuuu/robosys2023.git
 cd robosys2023
 seq 5 | ./plus
