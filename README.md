@@ -1,7 +1,8 @@
 # plusコマンド
 ![test](https://github.com/Shouuuuuu/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+# Explanation
+標準入力から受け取る値をnとすると1からnまでの合計した値を出力するものである。
 
 # Install method
 * まず以下のデポジトリをクローンする。
