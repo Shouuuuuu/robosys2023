@@ -4,14 +4,21 @@
 標準入力から読み込んだ数字を足す。
 
 # インストール方法
+plusのコードを新しいファイルに張り付ける。
 
-# 使用例
-~ chmod +x plus
-  
+# Usage
+```
+git clone https://git@github.com:Shouuuuuu/robosys2023.git
+cd robosys2023
+seq 5 | ./plus
+```
+テスト結果
+15
 
 # os
 * Windows 11 
 * Mac os
+* Linux
 
 # Author
 * Shoma Takatori
