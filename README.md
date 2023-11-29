@@ -41,11 +41,11 @@ seq 8 | ./plus
     * [ryuichiueda.github.io/my_slides/robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2023 Shouuuuuu
 
-## 必要なソフトウェア
+# Required software
 * Python
   * テスト済み: 3.7~3.10
 
-## テスト環境
+# Testing environment
 * Ubuntu 20.04 on Windows
 
 Ⓒ 2023 Shouuuuuu
