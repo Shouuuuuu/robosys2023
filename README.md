@@ -5,7 +5,7 @@
 標準入力から受け取る値をnとすると1からnまでの合計した値を出力するものである。
 
 # Install method
-* まず以下のデポジトリをクローンする。
+* まず以下のリポジトリをクローンする。
 ```
 git clone git@github.com:Shouuuuuu/robosys2023.git
 ```
