@@ -13,7 +13,9 @@ cd robosys2023
 seq 5 | ./plus
 ```
 テスト結果
+```
 15
+```
 
 # os
 * Windows 11 
